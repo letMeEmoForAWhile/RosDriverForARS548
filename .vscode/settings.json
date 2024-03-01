@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "string": "cpp"
+    },
+    "python.autoComplete.extraPaths": [
+        "/home/dearmoon/shares/share_ubuntu/projects/RosDriverForARS548/devel/lib/python2.7/dist-packages",
+        "/home/dearmoon/shares/share_ubuntu/projects/hmbcl/devel/lib/python2.7/dist-packages",
+        "/home/dearmoon/shares/share_ubuntu/projects/Catkin_4DRadarSLAM/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/dearmoon/shares/share_ubuntu/projects/RosDriverForARS548/devel/lib/python2.7/dist-packages",
+        "/home/dearmoon/shares/share_ubuntu/projects/hmbcl/devel/lib/python2.7/dist-packages",
+        "/home/dearmoon/shares/share_ubuntu/projects/Catkin_4DRadarSLAM/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ],
+    "C_Cpp.errorSquiggles": "disabled",
+    "ros.distro": "melodic",
+    "cmake.sourceDirectory": "/home/dearmoon/shares/share_ubuntu/projects/RosDriverForARS548/src/ars548_process"
+}

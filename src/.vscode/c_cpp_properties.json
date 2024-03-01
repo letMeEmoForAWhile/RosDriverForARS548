@@ -1,0 +1,34 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/dearmoon/projects/RosDriverForARS548/devel/include/**",
+        "/home/dearmoon/projects/calibration/devel/include/**",
+        "/home/dearmoon/projects/hdl_graph_slam/devel/include/**",
+        "/home/dearmoon/projects/4DRadarSlam/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/dearmoon/projects/RosDriverForARS548/src/ars548_msg/include/**",
+        "/home/dearmoon/projects/RosDriverForARS548/src/ars548_process/include/**",
+        "/home/dearmoon/projects/calibration/src/aruco_ros/aruco/include/**",
+        "/home/dearmoon/projects/calibration/src/aruco_mapping/include/**",
+        "/home/dearmoon/projects/calibration/src/aruco_ros/aruco_ros/include/**",
+        "/home/dearmoon/projects/hdl_graph_slam/src/fast_gicp/include/**",
+        "/home/dearmoon/projects/hdl_graph_slam/src/hdl_graph_slam/include/**",
+        "/home/dearmoon/projects/calibration/src/lidar_camera_calibration/include/**",
+        "/home/dearmoon/projects/hdl_graph_slam/src/ndt_omp/include/**",
+        "/home/dearmoon/projects/4DRadarSlam/src/4DRadarSLAM/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

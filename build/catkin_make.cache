@@ -1,0 +1,2 @@
+ars548_msg:ars548_process
+-DCATKIN_DEVEL_PREFIX=/home/dearmoon/projects/RosDriverForARS548/devel -DCMAKE_INSTALL_PREFIX=/home/dearmoon/projects/RosDriverForARS548/install -G Unix Makefiles
