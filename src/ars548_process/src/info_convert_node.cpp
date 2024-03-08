@@ -82,6 +82,7 @@ void detectionReceive(const ars548_msg::DetectionList& msg)
     {
         cloud.header.frame_id = "world";
         cloud.header.stamp = msg.detection_array[0].header.stamp;
+        // std::cout << "msg.detection_array[0].header.stamp : " << msg.detection_array[0].header.stamp << std::endl;
         cloud.points.clear();
 
         // 设置通道名称

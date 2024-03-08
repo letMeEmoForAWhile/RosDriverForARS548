@@ -29,7 +29,8 @@ char rec_data[40000];
 char send_data[1024];
 int rec_length;
 
-const std::string  json_file_path =  "/home/dearmoon/datasets/NWU/json/xr.json";
+const std::string  json_file_path =  "/home/dearmoon/datasets/NWU/日晴半室内低速2/4DRadar/RiQingBanShiNeiDiSu3.json";
+// const std::string  json_file_path =  "/home/dearmoon/datasets/NWU/json/xr_firstPacket.json";
 
 RadarObjectList object_list;
 RadarDetectionList detection_list;
